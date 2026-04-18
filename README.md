@@ -59,7 +59,7 @@
 - [x] HDMI
 - [x] Camera
 - [x] WiFi (adapter)
-- [ ]
+- [ ] 
 
 ## Does not work 
 
@@ -72,4 +72,4 @@
 ## Not tested
 
 - [ ] FileVault
-- [ ] AirDrop, iMessage, AirPlay, FaceTime
+- [ ] AirDrop, iMessage, AirPlay, FaceTime etc.
