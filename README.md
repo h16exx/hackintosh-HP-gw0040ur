@@ -59,7 +59,6 @@
 - [x] HDMI
 - [x] Camera
 - [x] WiFi (adapter)
-- [ ] 
 
 ## Does not work 
 
