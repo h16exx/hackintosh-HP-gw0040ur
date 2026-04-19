@@ -42,7 +42,7 @@
       <td>RTL8821CE</td>
     </tr>
     <tr>
-      <td>WiFi external, with [chris1111 drivers](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter)</td>
+      <td>WiFi (external, with <a href="https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter">chris1111 drivers</a>)</td>
       <td>RTL8821CU</td>
     </tr>
 </table>
